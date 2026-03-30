@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "openapi": []
+  },
+  "triggers": [
+    {
+      "name": "checkVipTimer",
+      "type": "timer",
+      "config": "0 0 * * * * *"
+    }
+  ]
+}

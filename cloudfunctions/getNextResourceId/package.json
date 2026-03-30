@@ -1,0 +1,9 @@
+{
+  "name": "getNextResourceId",
+  "version": "1.0.0",
+  "description": "Generate sequential resource ID",
+  "main": "index.js",
+  "dependencies": {
+    "wx-server-sdk": "latest"
+  }
+}

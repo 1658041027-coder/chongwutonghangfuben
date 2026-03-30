@@ -1,0 +1,10 @@
+{
+  "name": "checkVipExpire",
+  "version": "1.0.0",
+  "description": "Check and update expired VIP users",
+  "main": "index.js",
+  "dependencies": {
+    "wx-server-sdk": "latest"
+  },
+  "author": "TraeAI"
+}
